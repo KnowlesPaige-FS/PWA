@@ -16,7 +16,7 @@ services:
     command: >
       sh -c "rm -rf node_modules &&
              npm install &&
-             npm run watch"
+             npm run dev"
     restart: always
     stdin_open: true
     tty: true
