@@ -11,7 +11,7 @@
   "author": "Paige Knowles",
   "license": "ISC",
   "dependencies": {
-    "@pknowles-fs/tests": "^1.0.2",
+    "@pknowles-fs/tests": "^1.0.5",
     "@pknowles-fs/utils": "^1.0.11",
     "express": "^4.18.3"
   },
